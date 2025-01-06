@@ -20,7 +20,7 @@
     <a href="#">
         <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900">About Us</h5>
     </a>
-    <p class="mb-3 font-normal text-gray-500">Jual berbagai model hijab kekinian dengan harga terjangkau. Tersedia fitur virtual fitting room untuk mencoba hijab secara virtual, serta program loyalty points untuk pelanggan setia. Target audiens: remaja putri dan wanita muda yang menyukai fashion.</p>
+    <p class="mb-3 font-normal text-gray-500">{{ $home->about_us }}</p>
     <a href="profile" class="inline-flex font-medium items-center text-purple-600 hover:underline">
         See our profile
         <svg class="w-3 h-3 ms-2.5 rtl:rotate-[270deg]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">

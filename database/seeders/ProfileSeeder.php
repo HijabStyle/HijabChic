@@ -14,7 +14,7 @@ class ProfileSeeder extends Seeder
             'nim' => 'SSI202303486',
             'class' => 'C3.4Sistem Informasi',
             'univ' => 'STMIK Widya Utama 2023/2024',
-            'email' => 'tefamail89@gmail.com',
+            'email' => 'nurfyuliana@gmail.com',
             'photo' => 'https://down-id.img.susercontent.com/file/id-11134207-7r992-lv1kxyxqphjc2f',
         ]);
     }
